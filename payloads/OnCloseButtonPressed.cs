@@ -1,6 +1,7 @@
+
 private async void closeButtonPress(object sender, FormClosingEventArgs e)
         {
-            e.Cancel = true;
+            e.Cancel = true; // Cancels the close event
             Process.Start(Process.GetCurrentProcess().ProcessName);
             if (playingErrors == true) return;
             else
