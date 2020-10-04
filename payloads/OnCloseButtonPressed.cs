@@ -1,3 +1,13 @@
+/// <summary>
+/// This is not the entire code, just the event and assemblies.
+/// </summary>
+
+// Assemblies:
+using System;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Media;
+using System.Diagnostics;
 
 private async void closeButtonPress(object sender, FormClosingEventArgs e)
         {
