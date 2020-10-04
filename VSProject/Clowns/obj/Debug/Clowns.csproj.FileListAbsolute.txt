@@ -1,0 +1,10 @@
+C:\Users\Paul\source\repos\Clowns\Clowns\bin\Debug\Clowns.exe.config
+C:\Users\Paul\source\repos\Clowns\Clowns\bin\Debug\Clowns.exe
+C:\Users\Paul\source\repos\Clowns\Clowns\bin\Debug\Clowns.pdb
+C:\Users\Paul\source\repos\Clowns\Clowns\obj\Debug\Clowns.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\Clowns\Clowns\obj\Debug\Clowns.Form1.resources
+C:\Users\Paul\source\repos\Clowns\Clowns\obj\Debug\Clowns.Properties.Resources.resources
+C:\Users\Paul\source\repos\Clowns\Clowns\obj\Debug\Clowns.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\Clowns\Clowns\obj\Debug\Clowns.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Clowns\Clowns\obj\Debug\Clowns.exe
+C:\Users\Paul\source\repos\Clowns\Clowns\obj\Debug\Clowns.pdb
